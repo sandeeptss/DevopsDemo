@@ -1,0 +1,60 @@
+1) Source code management  SCM ( Version control system) VCS  ---SVN (Subversion), TFS, CVS,--- GIT  (GITHUB,BITBUCKET, GITLAB)
+
+2) Build tools :  Maven , ANT, (Java) MS Buuild (.Net)  
+
+3) Continuous integration tool: Jenkins, Bamboo, teamcity.....
+
+additions: i)SonarQube (Code Qulaity Analysis tool)
+           ii) Artifactory: Nexus, Jfrog, Artifactory,S3 (AWS)
+
+4) Configuration management tools: Ansible, Puppet, Chef, Runduck ....
+
+5) Containerzation: Docker ...Docker sowrm (Clustering) ... Kubernets (Google)
+
+6) Cloud Platforms (AWS, AZURE, GCP,BLUEMix,)
+
+===========================================================
+
+Git: 
+
+Git download . GitBash here
+how will you create local git repository?
+1) create empty directory by using mkdir or new folder
+2) go inside of the folder or directory
+3) initiate the git by using "git init" command
+touch <fileName> command ( it will create empty file)
+default Branch in git master branch
+
+Git has three stages:
+1) Workspace
+2) Staging or Index area
+3) Local Repository
+
+git add <file name> * (Staging or index)
+git commit -m ""  ( Local repo)
+
+git status 
+
+git log (it will show the commit id info)
+
+git log --oneline 
+
+git show <commit ID>
+
+git reset file name( index to workspace)
+
+git branch ( it will show the branches)
+
+git branch <branchname) it will create branch)
+
+git checkout <branchName>  Go inside of the branch
+
+git checkout -b <branchName> it will create new branch and will go inside the branch)
+=======================================
+
+
+
+
+
+
+
